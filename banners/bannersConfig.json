@@ -1,12 +1,12 @@
 {
-	"version" : 3,
+	"version" : 4,
 	"banners" : [
 		{
 		"id": 0,
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.dance",
 		"iosBundle": "",
-		"androidUrl": "https://play.google.com/store/apps/details?id=com.bianf.avatars.dance",
+		"androidUrl": "http://bit.ly/2nsEk3s",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/dance_468x60_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/dance_468x60_ru.png"
@@ -16,7 +16,7 @@
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.dance",
 		"iosBundle": "",
-		"androidUrl": "https://play.google.com/store/apps/details?id=com.bianf.avatars.dance",
+		"androidUrl": "http://bit.ly/2mICmax",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/dance_512x112.png"
 		}
