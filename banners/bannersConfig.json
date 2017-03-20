@@ -8,7 +8,17 @@
 		"iosBundle": "",
 		"androidUrl": "https://play.google.com/store/apps/details?id=com.bianf.avatars.dance",
 		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/dance_468x60.png"
+		"banner": "https://kvins.github.io/avatarMakers/banners/dance_468x60_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/dance_468x60_ru.png"
+		},
+		{
+		"id": 1,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.dance",
+		"iosBundle": "",
+		"androidUrl": "https://play.google.com/store/apps/details?id=com.bianf.avatars.dance",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/dance_512x174.png"
 		}
 	]
 }
