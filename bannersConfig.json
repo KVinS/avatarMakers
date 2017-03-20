@@ -1,0 +1,11 @@
+{
+	"banners": [{
+		"id": 0,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.dance",
+		"iosBundle": "",
+		"androidUrl": "https://play.google.com/store/apps/details?id=com.bianf.avatars.dance",
+		"iosUrl": "",
+		"banner": "background"
+	}]
+}
