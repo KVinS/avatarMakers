@@ -1,5 +1,5 @@
 {
-	"version" : 4,
+	"version" : 5,
 	"banners" : [
 		{
 		"id": 0,
@@ -19,6 +19,17 @@
 		"androidUrl": "http://bit.ly/2mICmax",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/dance_512x112.png"
+		},
+		{
+		"id": 2,
+		"rate": 1,
+		"androidBundle": "",
+		"iosBundle": "",
+		"androidUrl": "http://bit.ly/2mXlj9N",
+		"iosUrl": "http://bit.ly/2mXlj9N",
+		"banner": "https://kvins.github.io/avatarMakers/banners/aliexpress_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/aliexpress_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/aliexpress_pt.png"
 		}
 	]
 }
