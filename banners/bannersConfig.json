@@ -1,5 +1,5 @@
 {
-	"version" : 5,
+	"version" : 6,
 	"banners" : [
 		{
 		"id": 0,
@@ -23,7 +23,7 @@
 		{
 		"id": 2,
 		"rate": 1,
-		"androidBundle": "",
+		"androidBundle": "bianf",
 		"iosBundle": "",
 		"androidUrl": "http://bit.ly/2mXlj9N",
 		"iosUrl": "http://bit.ly/2mXlj9N",
