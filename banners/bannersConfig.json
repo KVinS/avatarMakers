@@ -1,5 +1,5 @@
 {
-	"version" : 7,
+	"version" : 8,
 	"banners" : [
 		{
 		"id": 0,
@@ -25,8 +25,8 @@
 		"rate": 1,
 		"androidBundle": "online_ads",
 		"iosBundle": "",
-		"androidUrl": "http://bit.ly/2mXlj9N",
-		"iosUrl": "http://bit.ly/2mXlj9N",
+		"androidUrl": "http://bit.ly/2pMfRa2",
+		"iosUrl": "http://bit.ly/2pMfRa2",
 		"banner": "https://kvins.github.io/avatarMakers/banners/aliexpress_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/aliexpress_ru.png",
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/aliexpress_pt.png"
