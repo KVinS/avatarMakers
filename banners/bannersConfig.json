@@ -1,5 +1,5 @@
 {
-	"version" : 9,
+	"version" : 10,
 	"banners" : [
 		{
 		"id": 0,
@@ -29,7 +29,14 @@
 		"iosUrl": "http://bit.ly/2mXlj9N",
 		"banner": "https://kvins.github.io/avatarMakers/banners/aliexpress_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/aliexpress_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/aliexpress_pt.png"
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/aliexpress_pt.png",
+		"banner-Czech": "https://kvins.github.io/avatarMakers/banners/aliexpress_cz.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/aliexpress_de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/aliexpress_es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/aliexpress_fr.png",
+		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/aliexpress_ja.png",
+		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/aliexpress_ko.png",
+		"banner-Swedish": "https://kvins.github.io/avatarMakers/banners/aliexpress_sw.png"
 		},
 		{
 		"id": 3,
