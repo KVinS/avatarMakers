@@ -1,5 +1,5 @@
 {
-	"version" : 15,
+	"version" : 16,
 	"banners" : [
 		{
 		"id": 0,
@@ -37,17 +37,6 @@
 		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/aliexpress_ja.png",
 		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/aliexpress_ko.png",
 		"banner-Swedish": "https://kvins.github.io/avatarMakers/banners/aliexpress_sw.png"
-		},
-		{
-		"id": 3,
-		"rate": 1,
-		"androidBundle": "online_ads",
-		"iosBundle": "",
-		"androidUrl": "market://details?id=com.EpsilonstarGames.SpacewayLight",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/swl_banner_2_eng.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/swl_banner_2.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/swl_banner_2_por.png"
 		}
 	]
 }
