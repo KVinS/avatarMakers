@@ -1,5 +1,5 @@
 {
-	"version" : 16,
+	"version" : 17,
 	"banners" : [
 		{
 		"id": 0,
@@ -37,6 +37,30 @@
 		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/aliexpress_ja.png",
 		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/aliexpress_ko.png",
 		"banner-Swedish": "https://kvins.github.io/avatarMakers/banners/aliexpress_sw.png"
+		},
+		{
+		"id": 3,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.guys",
+		"iosBundle": "com.bianf.avatars.guys",
+		"androidUrl": "http://bit.ly/2reajmK",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/guys_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/guys_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/guys_pt.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/guys_es.png"
+		},
+		{
+		"id": 4,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.witches",
+		"iosBundle": "com.bianf.avatars.witches",
+		"androidUrl": "http://bit.ly/2qhonMm",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/witches_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/witches_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/witches_pt.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/witches_es.png"
 		}
 	]
 }
