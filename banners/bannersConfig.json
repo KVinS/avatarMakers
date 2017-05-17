@@ -1,5 +1,5 @@
 {
-	"version" : 17,
+	"version" : 18,
 	"banners" : [
 		{
 		"id": 0,
@@ -43,7 +43,7 @@
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.guys",
 		"iosBundle": "com.bianf.avatars.guys",
-		"androidUrl": "http://bit.ly/2reajmK",
+		"androidUrl": "market://details?id=com.bianf.avatars.guys",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/guys_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/guys_ru.png",
@@ -55,7 +55,7 @@
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.witches",
 		"iosBundle": "com.bianf.avatars.witches",
-		"androidUrl": "http://bit.ly/2qhonMm",
+		"androidUrl": "market://details?id=com.bianf.avatars.witches",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/witches_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/witches_ru.png",
