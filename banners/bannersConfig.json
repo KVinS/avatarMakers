@@ -1,5 +1,5 @@
 {
-	"version" : 18,
+	"version" : 19,
 	"banners" : [
 		{
 		"id": 0,
@@ -44,7 +44,7 @@
 		"androidBundle": "com.bianf.avatars.guys",
 		"iosBundle": "com.bianf.avatars.guys",
 		"androidUrl": "market://details?id=com.bianf.avatars.guys",
-		"iosUrl": "",
+		"iosUrl": "http://apple.co/2sJXdOf",
 		"banner": "https://kvins.github.io/avatarMakers/banners/guys_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/guys_ru.png",
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/guys_pt.png",
