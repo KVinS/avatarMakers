@@ -1,5 +1,5 @@
 {
-	"version" : 19,
+	"version" : 20,
 	"banners" : [
 		{
 		"id": 0,
@@ -14,11 +14,11 @@
 		{
 		"id": 1,
 		"rate": 1,
-		"androidBundle": "com.bianf.avatars.dance",
-		"iosBundle": "com.bianf.avatars.dance",
-		"androidUrl": "http://bit.ly/2mICmax",
-		"iosUrl": "http://apple.co/2qN3ub6",
-		"banner": "https://kvins.github.io/avatarMakers/banners/dance_512x112.png"
+		"androidBundle": "com.bianf.math.animals",
+		"iosBundle": "com.bianf.math.animals",
+		"androidUrl": "market://details?id=com.bianf.math.animals",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/math_animals.png"
 		},
 		{
 		"id": 2,
