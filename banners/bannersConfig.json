@@ -1,5 +1,5 @@
 {
-	"version" : 20,
+	"version" : 21,
 	"banners" : [
 		{
 		"id": 0,
@@ -23,20 +23,16 @@
 		{
 		"id": 2,
 		"rate": 1,
-		"androidBundle": "online_ads",
-		"iosBundle": "online_ads",
-		"androidUrl": "http://bit.ly/2qJwV1n",
-		"iosUrl": "http://bit.ly/2qJwV1n",
-		"banner": "https://kvins.github.io/avatarMakers/banners/aliexpress_en.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/aliexpress_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/aliexpress_pt.png",
-		"banner-Czech": "https://kvins.github.io/avatarMakers/banners/aliexpress_cz.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/aliexpress_de.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/aliexpress_es.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/aliexpress_fr.png",
-		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/aliexpress_ja.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/aliexpress_ko.png",
-		"banner-Swedish": "https://kvins.github.io/avatarMakers/banners/aliexpress_sw.png"
+		"androidBundle": "com.bianf.avatars.dance.guy",
+		"iosBundle": "com.bianf.avatars.dance.guy",
+		"androidUrl": "market://details?id=com.bianf.avatars.dance.guy",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/dg_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/dg_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/dg_pt.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/dg_de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/dg_es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/dg_fr.png"
 		},
 		{
 		"id": 3,
