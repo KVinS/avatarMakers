@@ -1,5 +1,5 @@
 {
-	"version" : 22,
+	"version" : 23,
 	"banners" : [
 		{
 		"id": 0,
@@ -57,6 +57,16 @@
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/witches_ru.png",
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/witches_pt.png",
 		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/witches_es.png"
+		},
+		{
+		"id": 5,
+		"rate": 1,
+		"androidBundle": "com.EpsilonstarGames.TrippleTasty",
+		"iosBundle": "com.EpsilonstarGames.TrippleTasty",
+		"androidUrl": "market://details?id=com.EpsilonstarGames.TrippleTasty",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/food_eng.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/food_rus.png"
 		}
 	]
 }
