@@ -1,5 +1,5 @@
 {
-	"version" : 23,
+	"version" : 24,
 	"banners" : [
 		{
 		"id": 0,
@@ -61,12 +61,17 @@
 		{
 		"id": 5,
 		"rate": 1,
-		"androidBundle": "com.EpsilonstarGames.TrippleTasty",
-		"iosBundle": "com.EpsilonstarGames.TrippleTasty",
-		"androidUrl": "market://details?id=com.EpsilonstarGames.TrippleTasty",
+		"androidBundle": "com.bianf.avatars.dogs",
+		"iosBundle": "com.bianf.avatars.dogs",
+		"androidUrl": "market://details?id=com.bianf.avatars.dogs",
 		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/food_eng.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/food_rus.png"
+		"banner": "https://kvins.github.io/avatarMakers/banners/dogs_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/dogs_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/dogs_pt.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/dogs_de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/dogs_es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/dogs_fr.png",
+		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/dogs_ko.png"
 		}
 	]
 }
