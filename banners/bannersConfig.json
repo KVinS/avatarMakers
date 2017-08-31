@@ -1,16 +1,6 @@
 {
-	"version" : 24,
+	"version" : 25,
 	"banners" : [
-		{
-		"id": 0,
-		"rate": 1,
-		"androidBundle": "com.bianf.avatars.dance",
-		"iosBundle": "com.bianf.avatars.dance",
-		"androidUrl": "http://bit.ly/2nsEk3s",
-		"iosUrl": "http://apple.co/2p5HsE9",
-		"banner": "https://kvins.github.io/avatarMakers/banners/dance_468x60_en.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/dance_468x60_ru.png"
-		},
 		{
 		"id": 1,
 		"rate": 1,
@@ -33,30 +23,6 @@
 		"banner-German": "https://kvins.github.io/avatarMakers/banners/dg_de.png",
 		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/dg_es.png",
 		"banner-French": "https://kvins.github.io/avatarMakers/banners/dg_fr.png"
-		},
-		{
-		"id": 3,
-		"rate": 1,
-		"androidBundle": "com.bianf.avatars.guys",
-		"iosBundle": "com.bianf.avatars.guys",
-		"androidUrl": "market://details?id=com.bianf.avatars.guys",
-		"iosUrl": "http://apple.co/2sJXdOf",
-		"banner": "https://kvins.github.io/avatarMakers/banners/guys_en.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/guys_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/guys_pt.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/guys_es.png"
-		},
-		{
-		"id": 4,
-		"rate": 1,
-		"androidBundle": "com.bianf.avatars.witches",
-		"iosBundle": "com.bianf.avatars.witches",
-		"androidUrl": "market://details?id=com.bianf.avatars.witches",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/witches_en.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/witches_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/witches_pt.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/witches_es.png"
 		},
 		{
 		"id": 5,
