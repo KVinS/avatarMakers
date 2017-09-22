@@ -1,5 +1,5 @@
 {
-	"version" : 25,
+	"version" : 26,
 	"banners" : [
 		{
 		"id": 1,
@@ -13,16 +13,30 @@
 		{
 		"id": 2,
 		"rate": 1,
-		"androidBundle": "com.bianf.avatars.dance.guy",
-		"iosBundle": "com.bianf.avatars.dance.guy",
-		"androidUrl": "market://details?id=com.bianf.avatars.dance.guy",
+		"androidBundle": "com.bianf.avatars.anime.girls",
+		"iosBundle": "com.bianf.avatars.anime.girls",
+		"androidUrl": "market://details?id=com.bianf.avatars.anime.girls",
 		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/dg_en.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/dg_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/dg_pt.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/dg_de.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/dg_es.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/dg_fr.png"
+		"banner": "https://kvins.github.io/avatarMakers/banners/animegirl_banner_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/animegirl_banner_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/animegirl_banner_pt.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/animegirl_banner_de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/animegirl_banner_es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/animegirl_banner_fr.png"
+		},
+		{
+		"id": 3,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.couple.kiss",
+		"iosBundle": "com.bianf.avatars.couple.kiss",
+		"androidUrl": "market://details?id=com.bianf.avatars.couple.kiss",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/kiss_banner_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/kiss_banner_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/kiss_banner_pt.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/kiss_banner_de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/kiss_banner_es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/kiss_banner_fr.png"
 		},
 		{
 		"id": 5,
