@@ -1,5 +1,5 @@
 {
-	"version" : 27,
+	"version" : 28,
 	"banners" : [
 		{
 		"id": 1,
@@ -69,6 +69,16 @@
 		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/dogs_es.png",
 		"banner-French": "https://kvins.github.io/avatarMakers/banners/dogs_fr.png",
 		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/dogs_ko.png"
+		},
+		{
+		"id": 6,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.chibi2",
+		"iosBundle": "com.bianf.avatars.chibi2",
+		"androidUrl": "market://details?id=com.bianf.avatars.chibi2",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/chibi2_banner.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/chibi2_banner_ru.png"
 		}
 	]
 }
