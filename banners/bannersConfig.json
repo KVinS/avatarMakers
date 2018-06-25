@@ -1,14 +1,19 @@
 {
-	"version" : 28,
+	"version" : 29,
 	"banners" : [
 		{
 		"id": 1,
 		"rate": 1,
-		"androidBundle": "com.bianf.math.animals",
-		"iosBundle": "com.bianf.math.animals",
-		"androidUrl": "market://details?id=com.bianf.math.animals",
+		"androidBundle": "studio.sugoi.fake_novelette.girl_simulator.tsundere",
+		"iosBundle": "studio.sugoi.fake_novelette.girl_simulator.tsundere",
+		"androidUrl": "https://play.google.com/apps/testing/studio.sugoi.fake_novelette.girl_simulator.tsundere",
 		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/math_animals.png"
+		"banner": "https://kvins.github.io/avatarMakers/banners/tsundere-banner.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/tsundere-banner-ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/tsundere-banner-pt.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/tsundere-banner-de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/tsundere-banner-es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/tsundere-banner-fr.png"
 		},
 		{
 		"id": 2,
@@ -39,23 +44,6 @@
 		"banner-French": "https://kvins.github.io/avatarMakers/banners/kiss_banner_fr.png"
 		},
 		{
-		"id": 4,
-		"rate": 1,
-		"androidBundle": "com.bianf.avatars.mermaids",
-		"iosBundle": "com.bianf.avatars.mermaids",
-		"androidUrl": "market://details?id=com.bianf.avatars.mermaids",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/mermaids_banner_en.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/mermaids_banner_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/mermaids_banner_pt.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/mermaids_banner_de.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/mermaids_banner_es.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/mermaids_banner_fr.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/mermaids_banner_ko.png",
-		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/mermaids_banner_ja.png",
-		"banner-Italian": "https://kvins.github.io/avatarMakers/banners/mermaids_banner_it.png"
-		},
-		{
 		"id": 5,
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.dogs",
@@ -67,18 +55,7 @@
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/dogs_pt.png",
 		"banner-German": "https://kvins.github.io/avatarMakers/banners/dogs_de.png",
 		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/dogs_es.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/dogs_fr.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/dogs_ko.png"
-		},
-		{
-		"id": 6,
-		"rate": 1,
-		"androidBundle": "com.bianf.avatars.chibi2",
-		"iosBundle": "com.bianf.avatars.chibi2",
-		"androidUrl": "market://details?id=com.bianf.avatars.chibi2",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/chibi2_banner.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/chibi2_banner_ru.png"
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/dogs_fr.png"
 		}
 	]
 }
