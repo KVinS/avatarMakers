@@ -1,5 +1,5 @@
 {
-	"version" : 32,
+	"version" : 34,
 	"banners" : [
 		{
 		"id": 1,
@@ -7,7 +7,7 @@
 		"androidBundle": "com.bianf.christmas.tree",
 		"iosBundle": "com.bianf.christmas.tree",
 		"androidUrl": "market://details?id=com.bianf.christmas.tree",
-		"iosUrl": "",
+		"iosUrl": "https://itunes.apple.com/app/id1446141007",
 		"banner": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner.png",
 		"banner-Czech": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_cs.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_ru.png",
@@ -28,7 +28,7 @@
 		"androidBundle": "com.bianf.avatars.couple.dance",
 		"iosBundle": "com.bianf.avatars.couple.dance",
 		"androidUrl": "market://details?id=com.bianf.avatars.couple.dance",
-		"iosUrl": "",
+		"iosUrl": "http://apple.co/2p5HsE9",
 		"banner": "https://kvins.github.io/avatarMakers/banners/dance_banner.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/dance_banner_ru.png",
 		"banner-German": "https://kvins.github.io/avatarMakers/banners/dance_banner_de.png",
