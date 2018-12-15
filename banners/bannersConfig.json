@@ -1,5 +1,5 @@
 {
-	"version" : 34,
+	"version" : 35,
 	"banners" : [
 		{
 		"id": 1,
@@ -7,7 +7,7 @@
 		"androidBundle": "com.bianf.christmas.tree",
 		"iosBundle": "com.bianf.christmas.tree",
 		"androidUrl": "market://details?id=com.bianf.christmas.tree",
-		"iosUrl": "https://itunes.apple.com/app/id1446141007",
+		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner.png",
 		"banner-Czech": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_cs.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_ru.png",
