@@ -1,12 +1,12 @@
 {
-	"version" : 41,
+	"version" : 42,
 	"banners" : [
 		{
 		"id": 1,
 		"rate": 1,
 		"androidBundle": "com.bianf.christmas.tree",
 		"iosBundle": "com.bianf.christmas.tree",
-		"androidUrl": "market://details?id=com.bianf.christmas.tree",
+		"androidUrl": "market://details?id=com.bianf.christmas.tree&referrer=utm_source%3Dofads",
 		"iosUrl": "https://itunes.apple.com/app/id1446141007",
 		"banner": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner.png",
 		"banner-Czech": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_cs.png",
@@ -42,6 +42,20 @@
 		"banner-Thai": "https://kvins.github.io/avatarMakers/banners/tf/banner-Thai.png",
 		"banner-Ukrainian": "https://kvins.github.io/avatarMakers/banners/tf/banner-Ukrainian.png",
 		"banner-Vietnamese": "https://kvins.github.io/avatarMakers/banners/tf/banner-Vietnamese.png"
+		},
+		{
+		"id": 3,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.couple.kissing",
+		"iosBundle": "com.bianf.avatars.couple.kissing",
+		"androidUrl": "market://details?id=com.bianf.avatars.couple.kissing&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/kiss/kiss_banner_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/kiss/kiss_banner_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/kiss/kiss_banner_pt.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/kiss/kiss_banner_de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/kiss/kiss_banner_es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/kiss/kiss_banner_fr.png"
 		}
 	]
 }
