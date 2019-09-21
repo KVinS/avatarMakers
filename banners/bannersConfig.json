@@ -1,5 +1,5 @@
 {
-	"version" : 42,
+	"version" : 43,
 	"banners" : [
 		{
 		"id": 1,
@@ -46,7 +46,7 @@
 		{
 		"id": 3,
 		"rate": 1,
-		"androidBundle": "com.bianf.avatars.couple.kissing",
+		"androidBundle": "com.bianf.avatars.couple.kissing",		"androidBundle": "com.bianf.avatars.couple.kissing",
 		"iosBundle": "com.bianf.avatars.couple.kissing",
 		"androidUrl": "market://details?id=com.bianf.avatars.couple.kissing&referrer=utm_source%3Dofads",
 		"iosUrl": "",
