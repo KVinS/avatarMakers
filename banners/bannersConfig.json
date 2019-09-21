@@ -1,5 +1,5 @@
 {
-	"version" : 43,
+	"version" : 44,
 	"banners" : [
 		{
 		"id": 1,
@@ -46,7 +46,7 @@
 		{
 		"id": 3,
 		"rate": 1,
-		"androidBundle": "com.bianf.avatars.couple.kissing",		"androidBundle": "com.bianf.avatars.couple.kissing",
+		"androidBundle": "com.bianf.avatars.couple.kissing",
 		"iosBundle": "com.bianf.avatars.couple.kissing",
 		"androidUrl": "market://details?id=com.bianf.avatars.couple.kissing&referrer=utm_source%3Dofads",
 		"iosUrl": "",
@@ -67,7 +67,7 @@
 		"banner": "https://kvins.github.io/avatarMakers/banners/birds/birds_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/birds/birds_ru.png",
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/birds/birds_pt.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/birds/birds_es.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/birds/birds_es.png"
 		},
 		{
 		"id": 5,
@@ -79,7 +79,7 @@
 		"banner": "https://kvins.github.io/avatarMakers/banners/bunnies/rabbits.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/bunnies/rabbits_ru.png",
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/bunnies/rabbits_pt.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/bunnies/rabbits_es.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/bunnies/rabbits_es.png"
 		},
 		{
 		"id": 6,
