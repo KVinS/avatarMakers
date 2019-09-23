@@ -1,5 +1,5 @@
 {
-	"version" : 44,
+	"version" : 45,
 	"banners" : [
 		{
 		"id": 1,
@@ -89,6 +89,18 @@
 		"androidUrl": "market://details?id=com.bianf.avatars.real_girl&referrer=utm_source%3Dofads",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/real_girl/rg.png"
+		},
+		{
+		"id": 7,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.witches",
+		"iosBundle": "com.bianf.avatars.witches",
+		"androidUrl": "market://details?id=com.bianf.avatars.witches",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/witches_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/witches_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/witches_pt.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/witches_es.png"
 		}
 	]
 }
