@@ -1,5 +1,5 @@
 {
-	"version" : 45,
+	"version" : 46,
 	"banners" : [
 		{
 		"id": 1,
@@ -26,7 +26,7 @@
 		"id": 2,
 		"rate": 1,
 		"androidBundle": "com.twinface.anime",
-		"iosBundle": "com.bianf.christmas.tree",
+		"iosBundle": "com.twinface.anime",
 		"androidUrl": "market://details?id=com.twinface.anime&referrer=utm_source%3Dofads",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/tf/banner.png",
@@ -101,6 +101,27 @@
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/witches_ru.png",
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/witches_pt.png",
 		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/witches_es.png"
+		},
+		{
+		"id": 8,
+		"rate": 1,
+		"androidBundle": "com.twinface.cats",
+		"iosBundle": "com.twinface.cats",
+		"androidUrl": "market://details?id=com.twinface.cats&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/tfc/banner.png",
+		"banner-Czech": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Czech.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Russian.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/tfc/banner-German.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/tfc/banner-French.png",
+		"banner-Italian": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Italian.png",
+		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Japanese.png",
+		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Korean.png",
+		"banner-Polish": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Polish.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Portuguese.png",
+		"banner-Thai": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Thai.png",
+		"banner-Ukrainian": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Ukrainian.png",
+		"banner-Vietnamese": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Vietnamese.png"
 		}
 	]
 }
