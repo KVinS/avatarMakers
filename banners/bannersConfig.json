@@ -1,50 +1,26 @@
 {
-	"version" : 46,
+	"version" : 47,
 	"banners" : [
 		{
 		"id": 1,
 		"rate": 1,
-		"androidBundle": "com.bianf.christmas.tree",
-		"iosBundle": "com.bianf.christmas.tree",
-		"androidUrl": "market://details?id=com.bianf.christmas.tree&referrer=utm_source%3Dofads",
-		"iosUrl": "https://itunes.apple.com/app/id1446141007",
-		"banner": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner.png",
-		"banner-Czech": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_cs.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_ru.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_de.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_fr.png",
-		"banner-Italian": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_it.png",
-		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_jp.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_kr.png",
-		"banner-Polish": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_pl.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_pt.png",
-		"banner-Thai": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_th.png",
-		"banner-Ukrainian": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_ua.png",
-		"banner-Vietnamese": "https://kvins.github.io/avatarMakers/banners/christmas/christmas_banner_vi.png"
+		"androidBundle": "online_ads",
+		"iosBundle": "online_ads",
+		"androidUrl": "http://bit.ly/2qJwV1n",
+		"iosUrl": "http://bit.ly/2qJwV1n",
+		"banner": "https://kvins.github.io/avatarMakers/banners/aliexpress_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/aliexpress_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/aliexpress_pt.png",
+		"banner-Czech": "https://kvins.github.io/avatarMakers/banners/aliexpress_cz.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/aliexpress_de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/aliexpress_es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/aliexpress_fr.png",
+		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/aliexpress_ja.png",
+		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/aliexpress_ko.png",
+		"banner-Swedish": "https://kvins.github.io/avatarMakers/banners/aliexpress_sw.png"
 		},
 		{
 		"id": 2,
-		"rate": 1,
-		"androidBundle": "com.twinface.anime",
-		"iosBundle": "com.twinface.anime",
-		"androidUrl": "market://details?id=com.twinface.anime&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/tf/banner.png",
-		"banner-Czech": "https://kvins.github.io/avatarMakers/banners/tf/banner-Czech.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/tf/banner-Russian.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/tf/banner-German.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/tf/banner-French.png",
-		"banner-Italian": "https://kvins.github.io/avatarMakers/banners/tf/banner-Italian.png",
-		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/tf/banner-Japanese.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/tf/banner-Korean.png",
-		"banner-Polish": "https://kvins.github.io/avatarMakers/banners/tf/banner-Polish.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/tf/banner-Portuguese.png",
-		"banner-Thai": "https://kvins.github.io/avatarMakers/banners/tf/banner-Thai.png",
-		"banner-Ukrainian": "https://kvins.github.io/avatarMakers/banners/tf/banner-Ukrainian.png",
-		"banner-Vietnamese": "https://kvins.github.io/avatarMakers/banners/tf/banner-Vietnamese.png"
-		},
-		{
-		"id": 3,
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.couple.kissing",
 		"iosBundle": "com.bianf.avatars.couple.kissing",
@@ -58,7 +34,7 @@
 		"banner-French": "https://kvins.github.io/avatarMakers/banners/kiss/kiss_banner_fr.png"
 		},
 		{
-		"id": 4,
+		"id": 3,
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.birds",
 		"iosBundle": "com.bianf.avatars.birds",
@@ -70,7 +46,7 @@
 		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/birds/birds_es.png"
 		},
 		{
-		"id": 5,
+		"id": 4,
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.rabbits",
 		"iosBundle": "com.bianf.avatars.rabbits",
@@ -82,7 +58,7 @@
 		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/bunnies/rabbits_es.png"
 		},
 		{
-		"id": 6,
+		"id": 5,
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.real_girl",
 		"iosBundle": "com.bianf.avatars.real_girl",
@@ -91,37 +67,13 @@
 		"banner": "https://kvins.github.io/avatarMakers/banners/real_girl/rg.png"
 		},
 		{
-		"id": 7,
+		"id": 6,
 		"rate": 1,
-		"androidBundle": "com.bianf.avatars.witches",
-		"iosBundle": "com.bianf.avatars.witches",
-		"androidUrl": "market://details?id=com.bianf.avatars.witches",
+		"androidBundle": "com.bianf.avatars.comics",
+		"iosBundle": "com.bianf.avatars.comics",
+		"androidUrl": "market://details?id=com.bianf.avatars.comics",
 		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/witches_en.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/witches_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/witches_pt.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/witches_es.png"
-		},
-		{
-		"id": 8,
-		"rate": 1,
-		"androidBundle": "com.twinface.cats",
-		"iosBundle": "com.twinface.cats",
-		"androidUrl": "market://details?id=com.twinface.cats&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/tfc/banner.png",
-		"banner-Czech": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Czech.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Russian.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/tfc/banner-German.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/tfc/banner-French.png",
-		"banner-Italian": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Italian.png",
-		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Japanese.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Korean.png",
-		"banner-Polish": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Polish.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Portuguese.png",
-		"banner-Thai": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Thai.png",
-		"banner-Ukrainian": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Ukrainian.png",
-		"banner-Vietnamese": "https://kvins.github.io/avatarMakers/banners/tfc/banner-Vietnamese.png"
+		"banner": "https://kvins.github.io/avatarMakers/banners/comics/comics-ads.png"
 		}
 	]
 }
