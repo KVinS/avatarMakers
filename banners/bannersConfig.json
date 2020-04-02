@@ -1,5 +1,5 @@
 {
-	"version" : 47,
+	"version" : 48,
 	"banners" : [
 		{
 		"id": 1,
@@ -71,9 +71,18 @@
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.comics",
 		"iosBundle": "com.bianf.avatars.comics",
-		"androidUrl": "market://details?id=com.bianf.avatars.comics",
+		"androidUrl": "market://details?id=com.bianf.avatars.comics&referrer=utm_source%3Dofads",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/comics/comics-ads.png"
+		},
+		{
+		"id": 7,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.cats.simple.cute",
+		"iosBundle": "com.bianf.avatars.cats.simple.cute",
+		"androidUrl": "market://details?id=com.bianf.avatars.cats.simple.cute&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/simple_cats/simple_cats.png"
 		}
 	]
 }
