@@ -1,13 +1,13 @@
 {
-	"version" : 48,
+	"version" : 49,
 	"banners" : [
 		{
 		"id": 1,
 		"rate": 1,
 		"androidBundle": "online_ads",
 		"iosBundle": "online_ads",
-		"androidUrl": "http://bit.ly/2qJwV1n",
-		"iosUrl": "http://bit.ly/2qJwV1n",
+		"androidUrl": "https://gotbest.by/redirect/cpa/o/q93fqbpm0i68yrtpqbq04qx6vajrwhck",
+		"iosUrl": "https://gotbest.by/redirect/cpa/o/q93fqbpm0i68yrtpqbq04qx6vajrwhck",
 		"banner": "https://kvins.github.io/avatarMakers/banners/aliexpress_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/aliexpress_ru.png",
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/aliexpress_pt.png",
