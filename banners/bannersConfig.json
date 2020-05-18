@@ -1,5 +1,5 @@
 {
-	"version" : 52,
+	"version" : 53,
 	"banners" : [
 		{
 		"id": 1,
@@ -54,6 +54,24 @@
 		"androidUrl": "market://details?id=com.bianf.avatars.anime.girls.pastel&referrer=utm_source%3Dofads",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/pastell/pastell_banner.png"
+		},
+		{
+		"id": 10,
+		"rate": 1,
+		"androidBundle": "google_play",
+		"iosBundle": "google_play",
+		"androidUrl": "https://bit.ly/2TeYywd",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_pt.png",
+		"banner-Thai": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_th.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_fr.png",
+		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_jp.png",
+		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_kr.png",
+		"banner-Polish": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_pl.png"
 		}
 	]
 }
