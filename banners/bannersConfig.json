@@ -1,5 +1,5 @@
 {
-	"version" : 53,
+	"version" : 54,
 	"banners" : [
 		{
 		"id": 1,
@@ -72,6 +72,24 @@
 		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_jp.png",
 		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_kr.png",
 		"banner-Polish": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_pl.png"
+		},
+		{
+		"id": 11,
+		"rate": 1,
+		"androidBundle": "brave",
+		"iosBundle": "brave",
+		"androidUrl": "https://bit.ly/2LRr030",
+		"iosUrl": "https://bit.ly/2LRr030",
+		"banner": "https://kvins.github.io/avatarMakers/banners/brave/brave.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/brave/brave_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/brave/brave_pt.png",
+		"banner-Thai": "https://kvins.github.io/avatarMakers/banners/brave/brave_th.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/brave/brave_de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/brave/brave_es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/brave/brave_fr.png",
+		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/brave/brave_jp.png",
+		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/brave/brave_kr.png",
+		"banner-Polish": "https://kvins.github.io/avatarMakers/banners/brave/brave_pl.png"
 		}
 	]
 }
