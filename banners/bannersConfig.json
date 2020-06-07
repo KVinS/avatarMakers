@@ -1,5 +1,5 @@
 {
-	"version" : 55,
+	"version" : 56,
 	"banners" : [
 		{
 		"id": 1,
@@ -90,6 +90,23 @@
 		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/brave/brave_jp.png",
 		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/brave/brave_kr.png",
 		"banner-Polish": "https://kvins.github.io/avatarMakers/banners/brave/brave_pl.png"
+		},
+		{
+		"id": 12,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.pony.fantasy",
+		"iosBundle": "com.bianf.avatars.pony.fantasy",
+		"androidUrl": "market://details?id=com.bianf.avatars.pony.fantasy&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_ru.png",
+		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_pt.png",
+		"banner-German": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_de.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_es.png",
+		"banner-French": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_fr.png",
+		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_jp.png",
+		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_kr.png",
+		"banner-Italian": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_it.png"
 		}
 	]
 }
