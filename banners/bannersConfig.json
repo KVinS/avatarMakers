@@ -1,5 +1,5 @@
 {
-	"version" : 57,
+	"version" : 58,
 	"banners" : [
 		{
 		"id": 1,
@@ -53,6 +53,15 @@
 		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_jp.png",
 		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_kr.png",
 		"banner-Italian": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_it.png"
+		},
+		{
+		"id": 13,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.anime.girls.snacks.sweets",
+		"iosBundle": "com.bianf.avatars.anime.girls.snacks.sweets",
+		"androidUrl": "market://details?id=com.bianf.avatars.anime.girls.snacks.sweets&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/sweets_banner.png"
 		}
 	]
 }
