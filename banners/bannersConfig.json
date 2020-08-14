@@ -1,13 +1,13 @@
 {
-	"version" : 59,
+	"version" : 60,
 	"banners" : [
 		{
 		"id": 1,
 		"rate": 1,
 		"androidBundle": "online_ads",
 		"iosBundle": "online_ads",
-		"androidUrl": "https://s.click.aliexpress.com/e/_Bf8kzP7S",
-		"iosUrl": "https://s.click.aliexpress.com/e/_Bf8kzP7S",
+		"androidUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
+		"iosUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
 		"banner": "https://kvins.github.io/avatarMakers/banners/aliexpress_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/aliexpress_ru.png",
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/aliexpress_pt.png",
