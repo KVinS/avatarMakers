@@ -20,15 +20,6 @@
 		"banner-Swedish": "https://kvins.github.io/avatarMakers/banners/aliexpress_sw.png"
 		},
 		{
-		"id": 6,
-		"rate": 1,
-		"androidBundle": "com.bianf.avatars.comics",
-		"iosBundle": "com.bianf.avatars.comics",
-		"androidUrl": "market://details?id=com.bianf.avatars.comics&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/comics/comics-ads.png"
-		},
-		{
 		"id": 7,
 		"rate": 1,
 		"androidBundle": "com.bianf.avatars.cats.simple.cute",
@@ -116,6 +107,16 @@
 		"androidUrl": "market://details?id=com.bianf.avatars.anime.girls.snacks.sweets&referrer=utm_source%3Dofads",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/sweets_banner.png"
+		},
+		{
+		"id": 14,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.anime.girls.villainess",
+		"iosBundle": "com.bianf.avatars.anime.girls.villainess",
+		"androidUrl": "market://details?id=com.bianf.avatars.anime.girls.villainess&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/villians-ads.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/villians-ads-ru.png"
 		}
 	]
 }
