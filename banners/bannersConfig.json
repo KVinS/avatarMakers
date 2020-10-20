@@ -1,5 +1,5 @@
 {
-	"version" : 62,
+	"version" : 65,
 	"banners" : [
 		{
 		"id": 1,
@@ -20,93 +20,13 @@
 		"banner-Swedish": "https://kvins.github.io/avatarMakers/banners/aliexpress_sw.png"
 		},
 		{
-		"id": 7,
+		"id": 15,
 		"rate": 1,
-		"androidBundle": "com.bianf.avatars.cats.simple.cute",
-		"iosBundle": "com.bianf.avatars.cats.simple.cute",
-		"androidUrl": "market://details?id=com.bianf.avatars.cats.simple.cute&referrer=utm_source%3Dofads",
+		"androidBundle": "com.bianf.avatars.couple.animals.cats",
+		"iosBundle": "com.bianf.avatars.couple.animals.cats",
+		"androidUrl": "market://details?id=com.bianf.avatars.couple.animals.cats&referrer=utm_source%3Dofads",
 		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/simple_cats/simple_cats.png"
-		},
-		{
-		"id": 8,
-		"rate": 1,
-		"androidBundle": "com.bianf.avatars.manga",
-		"iosBundle": "com.bianf.avatars.manga",
-		"androidUrl": "market://details?id=com.bianf.avatars.manga&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/manga/manga.png"
-		},
-		{
-		"id": 9,
-		"rate": 1,
-		"androidBundle": "com.bianf.avatars.anime.girls.pastel",
-		"iosBundle": "com.bianf.avatars.anime.girls.pastel",
-		"androidUrl": "market://details?id=com.bianf.avatars.anime.girls.pastel&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/pastell/pastell_banner.png"
-		},
-		{
-		"id": 10,
-		"rate": 1,
-		"androidBundle": "google_play",
-		"iosBundle": "google_play",
-		"androidUrl": "https://bit.ly/2TeYywd",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_pt.png",
-		"banner-Thai": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_th.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_de.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_es.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_fr.png",
-		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_jp.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_kr.png",
-		"banner-Polish": "https://kvins.github.io/avatarMakers/banners/google_play/google_play_banner_pl.png"
-		},
-		{
-		"id": 11,
-		"rate": 1,
-		"androidBundle": "brave",
-		"iosBundle": "brave",
-		"androidUrl": "https://bit.ly/2LRr030",
-		"iosUrl": "https://bit.ly/2LRr030",
-		"banner": "https://kvins.github.io/avatarMakers/banners/brave/brave.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/brave/brave_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/brave/brave_pt.png",
-		"banner-Thai": "https://kvins.github.io/avatarMakers/banners/brave/brave_th.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/brave/brave_de.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/brave/brave_es.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/brave/brave_fr.png",
-		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/brave/brave_jp.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/brave/brave_kr.png",
-		"banner-Polish": "https://kvins.github.io/avatarMakers/banners/brave/brave_pl.png"
-		},
-		{
-		"id": 12,
-		"rate": 1,
-		"androidBundle": "com.bianf.avatars.pony.fantasy",
-		"iosBundle": "com.bianf.avatars.pony.fantasy",
-		"androidUrl": "market://details?id=com.bianf.avatars.pony.fantasy&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_pt.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_de.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_es.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_fr.png",
-		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_jp.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_kr.png",
-		"banner-Italian": "https://kvins.github.io/avatarMakers/banners/pony/pony_banner_it.png"
-		},
-		{
-		"id": 13,
-		"rate": 1,
-		"androidBundle": "com.bianf.avatars.anime.girls.snacks.sweets",
-		"iosBundle": "com.bianf.avatars.anime.girls.snacks.sweets",
-		"androidUrl": "market://details?id=com.bianf.avatars.anime.girls.snacks.sweets&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/sweets_banner.png"
+		"banner": "https://kvins.github.io/avatarMakers/banners/couplecats-ads.png"
 		}
 	]
 }
