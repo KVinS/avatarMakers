@@ -1,5 +1,5 @@
 {
-	"version" : 65,
+	"version" : 66,
 	"banners" : [
 		{
 		"id": 1,
@@ -18,6 +18,16 @@
 		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/aliexpress_ja.png",
 		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/aliexpress_ko.png",
 		"banner-Swedish": "https://kvins.github.io/avatarMakers/banners/aliexpress_sw.png"
+		},
+		{
+		"id": 14,
+		"rate": 1,
+		"androidBundle": "com.bianf.avatars.anime.girls.villainess",
+		"iosBundle": "com.bianf.avatars.anime.girls.villainess",
+		"androidUrl": "market://details?id=com.bianf.avatars.anime.girls.villainess&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/villians-ads.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/villians-ads-ru.png"
 		},
 		{
 		"id": 15,
