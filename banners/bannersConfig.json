@@ -1,9 +1,10 @@
 {
-	"version" : 71,
+	"version" : 72,
 	"banners" : [
 		{
 		"id": 1,
 		"rate": 1,
+		"age" : 0,
 		"androidBundle": "online_ads",
 		"iosBundle": "online_ads",
 		"androidUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
