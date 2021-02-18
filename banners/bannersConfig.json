@@ -1,5 +1,5 @@
 {
-	"version" : 75,
+	"version" : 76,
 	"banners" : [
 		{
 		"id": 1,
@@ -9,6 +9,7 @@
 		"iosBundle": "online_ads",
 		"androidUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
 		"iosUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
+		"pcUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
 		"banner": "https://kvins.github.io/avatarMakers/banners/aliexpress_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/aliexpress_ru.png",
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/aliexpress_pt.png",
