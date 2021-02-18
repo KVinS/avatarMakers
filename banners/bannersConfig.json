@@ -1,5 +1,5 @@
 {
-	"version" : 76,
+	"version" : 77,
 	"banners" : [
 		{
 		"id": 1,
@@ -7,6 +7,7 @@
 		"age" : 0,
 		"androidBundle": "online_ads",
 		"iosBundle": "online_ads",
+		"pcBundle": "online_ads",
 		"androidUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
 		"iosUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
 		"pcUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
