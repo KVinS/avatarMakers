@@ -1,5 +1,5 @@
 {
-	"version" : 70,
+	"version" : 71,
 	"banners" : [
 		{
 		"id": 1,
@@ -41,7 +41,7 @@
 		"banner": "https://kvins.github.io/avatarMakers/banners/couplecats-ads.png"
 		},
 		{
-		"id": 16,
+		"id": 17,
 		"rate": 1,
 		"age" : 0,
 		"androidBundle": "art.how.to.draw.step.by.step.lessons.cats",
