@@ -1,5 +1,5 @@
 {
-	"version" : 72,
+	"version" : 73,
 	"banners" : [
 		{
 		"id": 1,
@@ -40,23 +40,6 @@
 		"androidUrl": "market://details?id=com.bianf.avatars.couple.animals.cats&referrer=utm_source%3Dofads",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/couplecats-ads.png"
-		},
-		{
-		"id": 17,
-		"rate": 1,
-		"age" : 0,
-		"androidBundle": "art.how.to.draw.step.by.step.lessons.cats",
-		"iosBundle": "",
-		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.cats&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats-ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats-pt.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats-de.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats-es.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats-fr.png",
-		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats-ja.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats-ko.png"
 		}
 	]
 }
