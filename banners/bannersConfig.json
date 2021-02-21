@@ -1,5 +1,5 @@
 {
-	"version" : 77,
+	"version" : 79,
 	"banners" : [
 		{
 		"id": 1,
@@ -21,6 +21,34 @@
 		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/aliexpress_ja.png",
 		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/aliexpress_ko.png",
 		"banner-Swedish": "https://kvins.github.io/avatarMakers/banners/aliexpress_sw.png"
+		},
+		{
+		"id": 2,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "tablet_ads",
+		"iosBundle": "tablet_ads",
+		"pcBundle": "tablet_ads",
+		"androidUrl": "https://s.click.aliexpress.com/e/_9xQis6",
+		"iosUrl": "https://s.click.aliexpress.com/e/_9xQis6",
+		"pcUrl": "https://s.click.aliexpress.com/e/_9xQis6",
+		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/tablet_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/tablet_ru.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/drawing/tablet_es.png"
+		},
+		{
+		"id": 3,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "marker_ads",
+		"iosBundle": "marker_ads",
+		"pcBundle": "marker_ads",
+		"androidUrl": "https://s.click.aliexpress.com/e/_AmIfPG",
+		"iosUrl": "https://s.click.aliexpress.com/e/_AmIfPG",
+		"pcUrl": "https://s.click.aliexpress.com/e/_AmIfPG",
+		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/markers_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/markers_ru.png",
+		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/drawing/markers_es.png"
 		},
 		{
 		"id": 14,
