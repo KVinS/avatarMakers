@@ -1,5 +1,5 @@
 {
-	"version" : 79,
+	"version" : 80,
 	"banners" : [
 		{
 		"id": 1,
@@ -49,6 +49,16 @@
 		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/markers_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/markers_ru.png",
 		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/drawing/markers_es.png"
+		},
+		{
+		"id": 4,
+		"rate": 1,
+		"age" : 12,
+		"androidBundle": "com.bianf.avatars.manga",
+		"iosBundle": "com.bianf.avatars.manga",
+		"androidUrl": "market://details?id=com.bianf.avatars.manga&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/manga/manga.png"
 		},
 		{
 		"id": 14,
