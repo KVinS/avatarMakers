@@ -114,6 +114,17 @@
 		"banner-French": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats-fr.png",
 		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats-ja.png",
 		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/drawcats/drawcats-ko.png"
+		},
+		{
+		"id": 18,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "art.how.to.draw.step.by.step.lessons.eyes",
+		"iosBundle": "",
+		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.eyes&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/eyes/DrawEyesAds.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/eyes/DrawEyesAds_ru.png"
 		}
 	]
 }
