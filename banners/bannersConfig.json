@@ -1,5 +1,5 @@
 {
-	"version" : 83,
+	"version" : 84,
 	"banners" : [
 		{
 		"id": 1,
@@ -43,9 +43,9 @@
 		"androidBundle": "marker_ads",
 		"iosBundle": "marker_ads",
 		"pcBundle": "marker_ads",
-		"androidUrl": "https://s.click.aliexpress.com/e/_AmIfPG",
-		"iosUrl": "https://s.click.aliexpress.com/e/_AmIfPG",
-		"pcUrl": "https://s.click.aliexpress.com/e/_AmIfPG",
+		"androidUrl": "https://s.click.aliexpress.com/e/_AmAwft",
+		"iosUrl": "https://s.click.aliexpress.com/e/_AmAwft",
+		"pcUrl": "https://s.click.aliexpress.com/e/_AmAwft",
 		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/markers_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/markers_ru.png",
 		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/drawing/markers_es.png"
