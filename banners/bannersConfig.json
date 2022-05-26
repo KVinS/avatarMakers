@@ -1,5 +1,5 @@
 {
-	"version" : 85,
+	"version" : 86,
 	"banners" : [
 		{
 		"id": 1,
@@ -23,55 +23,6 @@
 		"banner-Swedish": "https://kvins.github.io/avatarMakers/banners/aliexpress_sw.png"
 		},
 		{
-		"id": 2,
-		"rate": 1,
-		"age" : 0,
-		"androidBundle": "tablet_ads",
-		"iosBundle": "tablet_ads",
-		"pcBundle": "tablet_ads",
-		"androidUrl": "https://s.click.aliexpress.com/e/_9xQis6",
-		"iosUrl": "https://s.click.aliexpress.com/e/_9xQis6",
-		"pcUrl": "https://s.click.aliexpress.com/e/_9xQis6",
-		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/tablet_en.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/tablet_ru.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/drawing/tablet_es.png"
-		},
-		{
-		"id": 3,
-		"rate": 1,
-		"age" : 0,
-		"androidBundle": "marker_ads",
-		"iosBundle": "marker_ads",
-		"pcBundle": "marker_ads",
-		"androidUrl": "https://s.click.aliexpress.com/e/_AmAwft",
-		"iosUrl": "https://s.click.aliexpress.com/e/_AmAwft",
-		"pcUrl": "https://s.click.aliexpress.com/e/_AmAwft",
-		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/markers_en.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/markers_ru.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/drawing/markers_es.png"
-		},
-		{
-		"id": 4,
-		"rate": 1,
-		"age" : 12,
-		"androidBundle": "com.bianf.avatars.manga",
-		"iosBundle": "com.bianf.avatars.manga",
-		"androidUrl": "market://details?id=com.bianf.avatars.manga&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/manga/manga.png"
-		},
-		{
-		"id": 14,
-		"rate": 1,
-		"age" : 12,
-		"androidBundle": "com.bianf.avatars.anime.girls.villainess",
-		"iosBundle": "com.bianf.avatars.anime.girls.villainess",
-		"androidUrl": "market://details?id=com.bianf.avatars.anime.girls.villainess&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/villians-ads.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/villians-ads-ru.png"
-		},
-		{
 		"id": 15,
 		"rate": 1,
 		"age" : 13,
@@ -80,23 +31,6 @@
 		"androidUrl": "market://details?id=com.bianf.avatars.couple.animals.cats&referrer=utm_source%3Dofads",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/couplecats-ads.png"
-		},
-		{
-		"id": 16,
-		"rate": 1,
-		"age" : 0,
-		"androidBundle": "art.how.to.draw.step.by.step.lessons.flowers",
-		"iosBundle": "",
-		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.flowers&referrer=utm_source%3Dofads",
-		"iosUrl": "",
-		"banner": "https://kvins.github.io/avatarMakers/banners/drawflowers/drawflowers.png",
-		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawflowers/drawflowers_ru.png",
-		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/drawflowers/drawflowers_pt.png",
-		"banner-German": "https://kvins.github.io/avatarMakers/banners/drawflowers/drawflowers_de.png",
-		"banner-Spanish": "https://kvins.github.io/avatarMakers/banners/drawflowers/drawflowers_es.png",
-		"banner-French": "https://kvins.github.io/avatarMakers/banners/drawflowers/drawflowers_fr.png",
-		"banner-Japanese": "https://kvins.github.io/avatarMakers/banners/drawflowers/drawflowers_ja.png",
-		"banner-Korean": "https://kvins.github.io/avatarMakers/banners/drawflowers/drawflowers_ko.png"
 		},
 		{
 		"id": 17,
@@ -125,6 +59,16 @@
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/eyes/DrawEyesAds.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/eyes/DrawEyesAds_ru.png"
+		},
+		{
+		"id": 19,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "com.bianf.games.cats.and.mice.catch_up",
+		"iosBundle": "",
+		"androidUrl": "market://details?id=com.bianf.games.cats.and.mice.catch_up&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/catchup/catmiceadpng.png"
 		}
 	]
 }
