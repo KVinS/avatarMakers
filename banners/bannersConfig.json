@@ -1,5 +1,5 @@
 {
-	"version" : 86,
+	"version" : 87,
 	"banners" : [
 		{
 		"id": 1,
@@ -69,6 +69,83 @@
 		"androidUrl": "market://details?id=com.bianf.games.cats.and.mice.catch_up&referrer=utm_source%3Dofads",
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/catchup/catmiceadpng.png"
+		},
+		{
+		"id": 20,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "art.how.to.draw.step.by.step.lessons.anime.animals",
+		"iosBundle": "",
+		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.anime.animals&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/draweanimals_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/draweanimals_ru.png"
+		},
+		{
+		"id": 21,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "art.how.to.draw.step.by.step.lessons.dragons",
+		"iosBundle": "",
+		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.dragons&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/drawedragons_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/drawedragons_ru.png"
+		},
+		{
+		"id": 22,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "art.how.to.draw.step.by.step.lessons.anime.manga",
+		"iosBundle": "",
+		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.anime.manga&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/drawmanga_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/drawmanga_ru.png"
+		},
+		{
+		"id": 23,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "art.how.to.draw.step.by.step.lessons.machinery.cars",
+		"iosBundle": "",
+		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.machinery.cars&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/drawcars_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/drawcars_ru.png"
+		},
+		{
+		"id": 24,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "art.how.to.draw.step.by.step.lessons.vampires",
+		"iosBundle": "",
+		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.vampires&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/drawvampires_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/drawvampires_ru.png"
+		},
+		{
+		"id": 25,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "art.how.to.draw.step.by.step.lessons.poses",
+		"iosBundle": "",
+		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.poses&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/draweposes_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/draweposes_ru.png"
+		},
+		{
+		"id": 26,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "art.how.to.draw.step.by.step.lessons.animals",
+		"iosBundle": "",
+		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.animals&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/draweanimals_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/draweanimals_ru.png"
 		}
 	]
 }
