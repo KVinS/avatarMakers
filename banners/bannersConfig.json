@@ -1,5 +1,5 @@
 {
-	"version" : 87,
+	"version" : 88,
 	"banners" : [
 		{
 		"id": 1,
@@ -146,6 +146,17 @@
 		"iosUrl": "",
 		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/draweanimals_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/draweanimals_ru.png"
+		},
+		{
+		"id": 27,
+		"rate": 1,
+		"age" : 0,
+		"androidBundle": "art.how.to.draw.step.by.step.lessons.horses",
+		"iosBundle": "",
+		"androidUrl": "market://details?id=art.how.to.draw.step.by.step.lessons.horses&referrer=utm_source%3Dofads",
+		"iosUrl": "",
+		"banner": "https://kvins.github.io/avatarMakers/banners/drawing/drawehorses_en.png",
+		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/drawing/drawehorses_ru.png"
 		}
 	]
 }
