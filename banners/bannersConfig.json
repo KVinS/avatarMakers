@@ -1,5 +1,5 @@
 {
-	"version" : 88,
+	"version" : 89,
 	"banners" : [
 		{
 		"id": 1,
@@ -8,9 +8,9 @@
 		"androidBundle": "online_ads",
 		"iosBundle": "online_ads",
 		"pcBundle": "online_ads",
-		"androidUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
-		"iosUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
-		"pcUrl": "https://s.click.aliexpress.com/e/_BfARQ2aO",
+		"androidUrl": "https://shares.su/l/anime-figure-miku",
+		"iosUrl": "https://shares.su/l/anime-figure-miku",
+		"pcUrl": "https://shares.su/l/anime-figure-miku",
 		"banner": "https://kvins.github.io/avatarMakers/banners/aliexpress_en.png",
 		"banner-Russian": "https://kvins.github.io/avatarMakers/banners/aliexpress_ru.png",
 		"banner-Portuguese": "https://kvins.github.io/avatarMakers/banners/aliexpress_pt.png",
